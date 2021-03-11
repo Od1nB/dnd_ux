@@ -1,0 +1,9 @@
+
+
+.Spellcont{
+    display: inline-block;
+    background-color: bisque;
+    width: 6em;
+    margin-left: 30px;
+    margin-right: 30px;
+}

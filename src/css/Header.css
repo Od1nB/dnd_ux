@@ -1,0 +1,28 @@
+
+
+#nav {
+    background-color: white;
+}
+
+.Header{
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+a{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+
+.pages-butt{
+    display: inline;
+    margin: 10px;
+}
