@@ -1,9 +1,12 @@
 import React from 'react'
 import logo from './../logo.svg';
+import log2 from './../d20-blank.svg';
 
 const rere = () => (
     <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={log2} className="App-logo" alt="logo" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
+
         <p>
           Edit <code>src/App.js</code> and to reload.
         </p>
@@ -17,5 +20,7 @@ const rere = () => (
         </a>
       </header>
 )
+
+
 
 export default rere
