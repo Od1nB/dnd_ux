@@ -8,6 +8,6 @@ import React from 'react'
 
 export default function SplName({ spell }){
     return(
-        <h3>name: {spell.name}</h3>
+        <h4>name: {spell.name}</h4>
     );
 }
