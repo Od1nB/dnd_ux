@@ -1,6 +1,13 @@
 
+.Navn {
+    max-height: 100px;
+    color: aliceblue;
+    display: inline-block;
+    margin-left: 2em;
+    margin-right: 2em;
+}
 
 h3{
-    color: white;
+    color: #190c1c;
 }
 

@@ -6,7 +6,9 @@
 
 
 .spellsPage{
-    background-color: #4f4646;
-    height: 100vh;
+    background-color: #e7cfe1;
+    /* height: 100vh; */
     padding-top: 20px;
+    size: 100%;
+    padding-bottom: 10px;
 }

@@ -20,7 +20,7 @@ function Navn(){
     return(
         <div className="Navn">
                     <h3>name: {userData.name}</h3>
-                    <h3>lvl: {userData.desc}</h3>
+                    <h3>lvl: {userData.level}</h3>
                 </div>
             )
         
