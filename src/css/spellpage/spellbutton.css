@@ -1,0 +1,31 @@
+
+
+
+.spellButtons.button{
+    background-color: #e7cfe1;
+    color: #190c1c;
+}
+.spellButtons{
+    color: red;
+}
+
+.spellButtons button{
+    background-color: #e7cfe1;
+    color: #190c1c;
+    margin-right: 7px;
+    font-size: 25px;
+    border-radius: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.spellButtons button:hover{
+    background-color: #baacdc;
+}
+
+
+.button{
+    background-color: #e7cfe1;
+    color: #190c1c;
+}
+

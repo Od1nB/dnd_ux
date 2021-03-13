@@ -1,0 +1,26 @@
+
+
+.spellBox{
+    display: inline-block;
+    width: +10%;
+    justify-content: right;
+    background-color: #e7cfe1;
+    border: 0.5em;
+    border-style:solid;
+    border-color: #190c1c;
+    z-index: 90;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-bottom: 2px;
+
+}
+
+.spellBox h5{
+    color: #190c1c;
+}
+
+.spellBox p{
+    color: #190c1c;
+    margin: 0;
+}
