@@ -5,20 +5,22 @@
 }
 
 .Header{
-    background-color: grey;
+    background-color: #190c1c;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 a{
     list-style: none;
-    color: white;
+    color: #baacdc;
     text-decoration: none;
     margin-right: 10px;
+    padding: 4px;
 }
 
 a:hover{
     color: white;
-    text-decoration: underline;
+    background-color: #e7cfe1;
+    /* text-decoration: underline; */
 }
 
 
