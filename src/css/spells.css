@@ -1,14 +1,14 @@
 
-/* main{
+main{
     background-color: #4f4646;
     size: 100%;
-} */
+}
 
 
 .spellsPage{
     background-color: #e7cfe1;
     /* height: 100vh; */
     padding-top: 20px;
-    size: 100%;
+    size: 1000px;
     padding-bottom: 10px;
 }
